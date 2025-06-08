@@ -1,0 +1,21 @@
+{
+  "name": "input-integer",
+  "version": "0.0.0",
+  "description": "ui component",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MUHAMMADQASIM6936/input-integer.git"
+  },
+  "keywords": [
+    "slider"
+  ],
+  "author": "qasim",
+  "license": "ISC",
+  "devDependencies": {
+    "budo": "^11.8.4"
+  }
+}
